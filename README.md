@@ -5,4 +5,4 @@ go to the following directory-
 C:\Users\<user-name>\anaconda3(miniconda3)\envs\<env-name>\etc\conda
 
 Paste these two directories inside it.
-Create the directories if needed.
+Create the required directories (i.e etc, conda) if needed.
